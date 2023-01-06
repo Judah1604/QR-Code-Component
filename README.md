@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot(2).png)
+![](./screenshot (2).png)
 
 ### Links
 
@@ -34,4 +34,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Judah Oyedele](https://judahoyedele.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Judah1604)
+- Frontend Mentor - [@Judah1604](https://www.frontendmentor.io/profile/Judah1604)
